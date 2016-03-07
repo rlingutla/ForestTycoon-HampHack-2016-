@@ -1,5 +1,5 @@
 # ForestTycoon-HampHack-2016 
-## This game was built for the Hampshire College Hackathon, which happened in February 2016. Our team(Rachana, Bridget and Ellie) decided to make a game that could teach kids about the harmful affects humans are having on the environment in order to fit with the themes of the hackathon. 
+### This game was built for the Hampshire College Hackathon, which happened in February 2016. Our team(Rachana, Bridget and Ellie) decided to make a game that could teach kids about the harmful affects humans are having on the environment in order to fit with the themes of the hackathon. 
 
 ## What it does
 This game is similar in structure to Roller Coaster Tycoon(a popular computer game that allows users to build and manage a theme park). Players are given a piece of forest and are instructed to maintain its health (displayed in a corner bar). The forest contains 2 types of trees (pines and oaks) and deer (depicted by the cubes).   
